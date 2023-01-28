@@ -10,10 +10,13 @@ A string is a sequence of characters such as letters, numbers and symbols.
 _Uzi_ is a free chrome extension to generate random strings, such as passwords. Its name means _“thread”_ in Kiswahili.
 
 ## How To Install
-* Download the Uzi2.0.zip or Uzi2.0.rar file
-* Extract the contents and double-click the Uzi2.0.crx file
-* Double-click to open it in your browser
-* Choose "install"
+* Clone this repo
+* Open your browser (ie Google Chrome)
+* Go to //chrome://extensions/
+* Turn on "Developer mode"
+* Choose "Load unpacked"
+* Select the folder where this repo has been cloned
+* (Optional: pin Uzi to your browser)
 * Click the icon to run the extension.
 
 ## How to Use
