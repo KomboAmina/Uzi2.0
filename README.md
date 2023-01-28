@@ -22,9 +22,7 @@ _Uzi_ is a free chrome extension to generate random strings, such as passwords. 
 The extension loads with "uzi" as the default string and a length of 3.
 String generation mostly happens automatically when the extension is loaded or one of the generating values is called.
 
-Default                    |  Encrypted Strings
-:-------------------------:|:-------------------------:
-![Screenshot of the default view](https://raw.githubusercontent.com/KomboAmina/Uzi2.0/main/assets/img/Popup-1.png) |  ![Screenshot of the expanded view](https://raw.githubusercontent.com/KomboAmina/Uzi2.0/main/assets/img/Popup-2.png)
+![Screenshot of the expanded view](https://raw.githubusercontent.com/KomboAmina/Uzi2.0/main/assets/img/Popup-2.png)
 
 ## Features
 1. Editable output field.
