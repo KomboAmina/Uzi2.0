@@ -2,11 +2,12 @@
 String generation browser extension.
 Repo contains unpacked browser files.
 
+![Uzi Logo](https://raw.githubusercontent.com/KomboAmina/Uzi2.0/main/assets/img/Uzi%20Logo%20large.jpg)
 
 
 ## Intro
 A string is a sequence of characters such as letters, numbers and symbols.
-Uzi is a free chrome extension to generate random strings, such as passwords. Its name means _“thread”_ in Kiswahili.
+_Uzi_ is a free chrome extension to generate random strings, such as passwords. Its name means _“thread”_ in Kiswahili.
 
 ## How To Install
 * Download the Uzi2.0.zip or Uzi2.0.rar file
