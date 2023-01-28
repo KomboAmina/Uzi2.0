@@ -1,6 +1,5 @@
 # Uzi2.0
-String generation browser extension.
-Repo contains unpacked browser files.
+This repo contains unpacked browser files.
 
 ![Uzi Logo](https://raw.githubusercontent.com/KomboAmina/Uzi2.0/main/assets/img/Uzi%20Logo%20large.jpg)
 
@@ -52,5 +51,5 @@ Encrypted strings are read-only and can be:
 * Base64
 
 ### Special Mentions
-This extension was built on the UIkit framework (https://getuikit.com)
-With icons by Line Awesome (https://icons8.com/line-awesome)
+This extension was built on the UIkit framework (https://getuikit.com).
+With icons by Line Awesome (https://icons8.com/line-awesome).
