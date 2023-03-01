@@ -1,4 +1,4 @@
-# Uzi2.1
+# Uzi2.0
 This repo contains unpacked browser files.
 
 ![Uzi Logo](https://raw.githubusercontent.com/KomboAmina/Uzi2.0/main/assets/img/Uzi%20Logo%20large.jpg)
