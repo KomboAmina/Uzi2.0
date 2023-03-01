@@ -55,3 +55,4 @@ Encrypted strings are read-only and can be:
 ### Special Mentions
 * This extension was built on the UIkit framework (https://getuikit.com).
 * With icons by Line Awesome (https://icons8.com/line-awesome).
+* With QR Generator by David Shim (https://github.com/davidshimjs)
